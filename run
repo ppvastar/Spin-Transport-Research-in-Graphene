@@ -1,0 +1,2 @@
+nohup mpirun -nolocal -machinefile mf -np 2 ./gtransport.out &
+
